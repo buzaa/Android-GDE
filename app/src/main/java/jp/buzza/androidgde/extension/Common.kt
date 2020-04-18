@@ -5,6 +5,8 @@ import android.content.Context
 import android.content.Intent
 import android.os.Bundle
 
+// https://phucynwa.wordpress.com/2019/09/05/tu-khoa-reified-trong-kotlin-loi-hai-ra-sao/
+
 /**
  * This type of function is not good
  */
